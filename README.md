@@ -34,10 +34,6 @@ This project was built to:
 
 ---
 
-## 📸 Preview
-
-*(Add screenshots here if you want — GitHub tip)*
-
 ---
 
 ## 🚀 Future Improvements
